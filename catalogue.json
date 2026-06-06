@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Microsoft Visio Plan 1",
+    "description": "Tworzenie diagramów procesów biznesowych, schematów organizacyjnych i map koncepcyjnych",
+    "group": "Prod_MS_Visio_1_User",
+    "category": "Diagramy i wizualizacje"
+  },
+  {
+    "name": "Adobe Acrobat Pro",
+    "description": "Zaawansowana edycja PDF, dodawanie komentarzy, tworzenie formularzy i podpisów cyfrowych",
+    "group": "Prod_Adobe_Acrobat_User",
+    "category": "Dokumenty"
+  },
+  {
+    "name": "Microsoft Project",
+    "description": "Zarządzanie projektami, planowanie harmonogramów i alokacja zasobów",
+    "group": "Prod_MS_Project_User",
+    "category": "Zarządzanie projektami"
+  },
+  {
+    "name": "Tableau Desktop",
+    "description": "Analiza danych i tworzenie interaktywnych dashboardów oraz wizualizacji",
+    "group": "Prod_Tableau_User",
+    "category": "Analiza danych"
+  },
+  {
+    "name": "Figma Professional",
+    "description": "Projektowanie interfejsów użytkownika, prototypowanie i współpraca nad designem",
+    "group": "Prod_Figma_User",
+    "category": "Design i prototypowanie"
+  },
+  {
+    "name": "Slack Business+",
+    "description": "Komunikacja zespołowa, kanały tematyczne i integracje z narzędziami biznesowymi",
+    "group": "Prod_Slack_Business_User",
+    "category": "Komunikacja"
+  },
+  {
+    "name": "Miro Enterprise",
+    "description": "Wirtualna tablica do burzy mózgów, warsztatów i współpracy wizualnej",
+    "group": "Prod_Miro_User",
+    "category": "Współpraca"
+  },
+  {
+    "name": "Power BI Pro",
+    "description": "Business intelligence, tworzenie raportów i analiza danych biznesowych",
+    "group": "Prod_PowerBI_User",
+    "category": "Analiza danych"
+  },
+  {
+    "name": "AutoCAD",
+    "description": "Projektowanie wspomagane komputerowo dla inżynierii i architektury",
+    "group": "Prod_AutoCAD_User",
+    "category": "CAD i projektowanie techniczne"
+  },
+  {
+    "name": "Zoom Business",
+    "description": "Wideokonferencje, webinary i spotkania zespołowe online",
+    "group": "Prod_Zoom_Business_User",
+    "category": "Komunikacja"
+  },
+  {
+    "name": "Jira Software",
+    "description": "Zarządzanie projektami Agile, tracking issues i planowanie sprintów",
+    "group": "Prod_Jira_Software_User",
+    "category": "Zarządzanie projektami"
+  },
+  {
+    "name": "Confluence",
+    "description": "Współpraca nad dokumentacją, baza wiedzy i wiki zespołowa",
+    "group": "Prod_Confluence_User",
+    "category": "Dokumenty"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "description": "Profesjonalna edycja zdjęć, obróbka grafiki i tworzenie kompozycji wizualnych",
+    "group": "Prod_Adobe_Photoshop_User",
+    "category": "Design i prototypowanie"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "description": "Tworzenie grafiki wektorowej, logo, ilustracji i materiałów marketingowych",
+    "group": "Prod_Adobe_Illustrator_User",
+    "category": "Design i prototypowanie"
+  },
+  {
+    "name": "Sketch",
+    "description": "Projektowanie interfejsów użytkownika dla aplikacji mobilnych i webowych",
+    "group": "Prod_Sketch_User",
+    "category": "Design i prototypowanie"
+  },
+  {
+    "name": "Asana Business",
+    "description": "Zarządzanie zadaniami, projektami i współpracą zespołową",
+    "group": "Prod_Asana_Business_User",
+    "category": "Zarządzanie projektami"
+  },
+  {
+    "name": "Monday.com Pro",
+    "description": "Platforma do zarządzania pracą z konfigurowalnymi workflow i automatyzacją",
+    "group": "Prod_Monday_User",
+    "category": "Zarządzanie projektami"
+  },
+  {
+    "name": "Salesforce CRM",
+    "description": "Zarządzanie relacjami z klientami, sprzedażą i pipeline'em dealów",
+    "group": "Prod_Salesforce_User",
+    "category": "CRM i sprzedaż"
+  },
+  {
+    "name": "HubSpot Marketing Hub",
+    "description": "Marketing automation, email campaigns i analityka marketingowa",
+    "group": "Prod_HubSpot_Marketing_User",
+    "category": "Marketing"
+  },
+  {
+    "name": "Mailchimp Premium",
+    "description": "Email marketing, newslettery i kampanie e-mailowe z zaawansowaną analityką",
+    "group": "Prod_Mailchimp_User",
+    "category": "Marketing"
+  },
+  {
+    "name": "Canva Pro",
+    "description": "Tworzenie grafik do social media, prezentacji i materiałów marketingowych",
+    "group": "Prod_Canva_Pro_User",
+    "category": "Design i prototypowanie"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "description": "Profesjonalna edycja wideo, montaż i postprodukcja filmów",
+    "group": "Prod_Adobe_Premiere_User",
+    "category": "Multimedia"
+  },
+  {
+    "name": "Adobe After Effects",
+    "description": "Animacje motion graphics, efekty wizualne i kompozycje wideo",
+    "group": "Prod_Adobe_AfterEffects_User",
+    "category": "Multimedia"
+  },
+  {
+    "name": "SolidWorks",
+    "description": "Modelowanie 3D CAD dla inżynierii mechanicznej i projektowania produktów",
+    "group": "Prod_SolidWorks_User",
+    "category": "CAD i projektowanie techniczne"
+  },
+  {
+    "name": "Revit",
+    "description": "BIM (Building Information Modeling) dla architektury i budownictwa",
+    "group": "Prod_Revit_User",
+    "category": "CAD i projektowanie techniczne"
+  },
+  {
+    "name": "SketchUp Pro",
+    "description": "Modelowanie 3D dla architektury, wnętrz i projektowania przestrzeni",
+    "group": "Prod_SketchUp_User",
+    "category": "CAD i projektowanie techniczne"
+  },
+  {
+    "name": "Lucidchart",
+    "description": "Tworzenie diagramów online, flowchartów i schematów organizacyjnych",
+    "group": "Prod_Lucidchart_User",
+    "category": "Diagramy i wizualizacje"
+  },
+  {
+    "name": "Draw.io Enterprise",
+    "description": "Darmowe narzędzie do tworzenia diagramów z integracją do Confluence i Google Drive",
+    "group": "Prod_Drawio_User",
+    "category": "Diagramy i wizualizacje"
+  },
+  {
+    "name": "Notion Team",
+    "description": "All-in-one workspace: notatki, dokumenty, bazy danych i zarządzanie projektami",
+    "group": "Prod_Notion_Team_User",
+    "category": "Współpraca"
+  },
+  {
+    "name": "Microsoft Teams",
+    "description": "Platforma do komunikacji zespołowej, wideokonferencji i współpracy",
+    "group": "Prod_MS_Teams_User",
+    "category": "Komunikacja"
+  },
+  {
+    "name": "Trello Business Class",
+    "description": "Zarządzanie projektami metodą Kanban z tablicami i kartami zadań",
+    "group": "Prod_Trello_Business_User",
+    "category": "Zarządzanie projektami"
+  },
+  {
+    "name": "GitHub Enterprise",
+    "description": "Hosting kodu, kontrola wersji Git i współpraca nad projektami programistycznymi",
+    "group": "Prod_GitHub_Enterprise_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "GitLab Premium",
+    "description": "DevOps platform z CI/CD, hosting repozytoriów i zarządzanie cyklem życia aplikacji",
+    "group": "Prod_GitLab_Premium_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "Postman Team",
+    "description": "Testowanie API, dokumentacja i współpraca nad integracjami",
+    "group": "Prod_Postman_Team_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "Docker Business",
+    "description": "Konteneryzacja aplikacji i zarządzanie środowiskami developerskimi",
+    "group": "Prod_Docker_Business_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "IntelliJ IDEA Ultimate",
+    "description": "Zaawansowane IDE do programowania w Java, Kotlin i innych językach JVM",
+    "group": "Prod_IntelliJ_Ultimate_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "Visual Studio Professional",
+    "description": "IDE do tworzenia aplikacji .NET, C++, Python i web development",
+    "group": "Prod_VS_Professional_User",
+    "category": "Rozwój oprogramowania"
+  },
+  {
+    "name": "Splunk Enterprise",
+    "description": "Analiza logów, monitoring IT i security information management",
+    "group": "Prod_Splunk_User",
+    "category": "IT i bezpieczeństwo"
+  },
+  {
+    "name": "Datadog Pro",
+    "description": "Monitoring infrastruktury, APM i analiza wydajności aplikacji",
+    "group": "Prod_Datadog_User",
+    "category": "IT i bezpieczeństwo"
+  },
+  {
+    "name": "1Password Business",
+    "description": "Menedżer haseł dla zespołów z funkcjami bezpieczeństwa enterprise",
+    "group": "Prod_1Password_Business_User",
+    "category": "IT i bezpieczeństwo"
+  }
+]
