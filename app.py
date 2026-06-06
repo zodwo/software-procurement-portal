@@ -239,7 +239,7 @@ Odpowiedz w formacie JSON:
 WAŻNE: Pole "recommended_software" musi zawierać DOKŁADNIE taką samą nazwę jak w katalogu."""
 
         message = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-4-5",
             max_tokens=1000,
             messages=[
                 {"role": "user", "content": prompt}
